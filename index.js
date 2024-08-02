@@ -1,18 +1,18 @@
  // JSON data
  const persons = [
     {
-        "firstname": "John",
-        "lastname": "Doe",
+        "firstname": "Virat",
+        "lastname": "Kohli",
         "dob": "1990-01-01"
     },
     {
-        "firstname": "Jane",
-        "lastname": "Smith",
+        "firstname": "Rohit",
+        "lastname": "Sharma",
         "dob": "1985-05-15"
     },
     {
-        "firstname": "Emily",
-        "lastname": "Johnson",
+        "firstname": "MS",
+        "lastname": "Dhoni",
         "dob": "1992-09-22"
     }
 ];
